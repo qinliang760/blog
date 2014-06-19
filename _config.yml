@@ -9,7 +9,9 @@ production_url : http://qinliang760.github.io
 
 pygments: true
 JB :
-	BASE_PATH : /blog	
+  version : 0.3.0
+
+  BASE_PATH : /blog
 # Build settings
 markdown: kramdown
 permalink: pretty
