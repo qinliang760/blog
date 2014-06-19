@@ -5,6 +5,7 @@ description: "Write an awesome description for your new site here. You can edit 
 url: "http://qinliang760.github.io/blog/"
 encoding: utf-8
 pygments: true
+baseurl:""
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
